@@ -8,7 +8,7 @@ Finish time: 2:40
 
 Actual time needed to complete:  10 min
 
-
+---
 
 Number and name of feature: 2
 
@@ -20,6 +20,7 @@ Finish time: 2:50
 
 Actual time needed to complete:  10 min
 
+---
 
 Number and name of feature: 3
 
@@ -31,6 +32,7 @@ Finish time: 2:55
 
 Actual time needed to complete:  5 min
 
+---
 
 Number and name of feature: 4
 
